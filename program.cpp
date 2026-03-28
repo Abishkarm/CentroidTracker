@@ -54,6 +54,8 @@ int main()
 	allocate_image(gscale2);
 	allocate_image(label);
 
+	//test github
+
 	while (1) {
 
 		double t_start = high_resolution_time();
