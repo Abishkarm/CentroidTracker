@@ -361,3 +361,8 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Only track Greyscale folder
+CentroidTrack/
+greyscale2/
+image_view/
